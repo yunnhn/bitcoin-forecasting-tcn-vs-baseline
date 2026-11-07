@@ -1,0 +1,25 @@
+# Python dan Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Hasil build LaTeX
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Arsip dan file kerja lokal
+code-fp.original.ipynb
+code-fp.kaggle-run.ipynb
+paper_fix_kel4.docx.pdf
+paper_ieee.docx
+paper_ieee.pdf
+paper_ieee_latex.zip
+BTC-USD-OW.csv
